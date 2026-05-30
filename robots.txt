@@ -1,0 +1,6 @@
+# Izinkan semua robot mesin pencari (Google, Bing, dll) buat masuk
+User-agent: *
+Allow: /
+
+# Kasih tahu jalan tol ke lokasi peta situs lu
+Sitemap: https://simulasi-ujian.netlify.app/sitemap.xml
